@@ -1,0 +1,500 @@
+    2  cat readme.md
+    3  ll
+    4  ls
+    5  ls
+    6  la
+    7  ll
+    8  cd
+    9  cd proyecto/
+   10  cd daw/
+   11  cd d/
+   12  cd /d
+   13  cd proyecto/
+   14  cd documentos/
+   15  ll
+   16  cd billy/
+   17  cd documentos/
+   18  cd daw/
+   19  ll
+   20  cd a.entornos/
+   21  cd actividad/
+   22  ll
+   23  cd proyecto/
+   24  mv index.html Repo1Actividad1/
+   25  l
+   26  ll
+   27  cd Repo1Actividad1/
+   28  ll
+   29  cd ..
+   30  ll -a
+   31  cd Repo1Actividad1/
+   32  ll -a
+   33  cd code .
+   34  code .
+   35  ll
+   36  git add .gitignore
+   37  git status
+   38  git coomit -m "ADD: añadido .gitignore"
+   39  git commit -m "ADD: añadido .gitignore"
+   40  git status
+   41  git log
+   42  git status
+   43  git add -A
+   44  git status
+   45  git commit - m "ADD: añadidos ficheros de base de proyecto
+   46  git status
+   47  "
+   48  git commit -m "ADD: añadidos ficheros de base de proyecto"
+   49  git status
+   50  git log
+   51  git push origin main
+   52  git status
+   53  git checkout
+   54  git checkout -b develop
+   55  ll
+   56  git status
+   57  touch alberto_montero.html
+   58  ll
+   59  code . 
+   60  code . 
+   61  git status
+   62  git add alberto_montero.html 
+   63  git status
+   64  git checkout main
+   65  git status
+   66  ll
+   67  git checkotu develop
+   68  git checkout develop
+   69  git commit -m "ADD: alberto_montero
+   70  asdfvsd
+   71  "
+   72  git push origin develop
+   73  git brunch
+   74  git branch
+   75  checkout main
+   76  checkout main
+   77  git checkout main
+   78  git status
+   79  git pull
+   80  git checkout develop 
+   81  ll
+   82  git checkout main
+   83  git merge  develop
+   84  git checkout develop
+   85  .code
+   86  . code
+   87  cd /d
+   88  ll
+   89  cd billy
+   90  cd focumentos
+   91  cd daw
+   92  cd documentos/
+   93  cd daw/
+   94  ll
+   95  cd a.entornos/
+   96  ll
+   97  cd actividad/
+   98  ll
+   99  cd proyecto/
+  100  ll
+  101  cd Repo1Actividad1/
+  102  . code
+  103  . code
+  104  code .
+  105  cd /d/billy/documentos/daw
+  106  ll
+  107  cd A.ENTORNOS/
+  108  ll
+  109  cd Actividad/
+  110  cd PROYECTO/
+  111  cd Repo1Actividad1/
+  112  git checkout main
+  113  git status
+  114  git checkout develop
+  115  git status
+  116  git add alberto_montero.html 
+  117  git status
+  118  git checkout main
+  119  git status
+  120  git checkout develop
+  121  code .
+  122  git checkout main
+  123  git checkout develop
+  124  git checkout main
+  125  git status
+  126  git add alberto_montero.html 
+  127  git checjout develop
+  128  git checkout develop
+  129  git status
+  130  git checkout main
+  131  git merge develop
+  132  get status
+  133  git status
+  134  git commit -m "ADD: archivo modificado alberto_montero.html"
+  135  git checkout develop
+  136  git status
+  137  code .
+  138  git checktou main
+  139  git push
+  140  git push origin 
+  141  git push origin main
+  142  code .
+  143  git checkout main
+  144  git checkou develop
+  145  git checkout develop
+  146  code v
+  147  code .
+  148  git checkout main
+  149  git commit alberto_montero.html 
+  150  git commit alberto_montero.html 
+  151  git checkout main
+  152  git status
+  153  git merge develop
+  154  git merge develop
+  155  git checout develop
+  156  git checkout develop
+  157  git merge develop
+  158  git merge develop
+  159  git add alberto_montero.html 
+  160  git merge develop
+  161  git commit alberto_montero.html 
+  162  cd d
+  163  cd billy
+  164  cd documento
+  165  cd documentos
+  166  cd daw
+  167  cd a.entornos
+  168  cd actividad
+  169  cd proyecto
+  170  cd Repo1Actividad1/
+  171  git git merge develop
+  172  git merge develop
+  173  git merge exit
+  174  git commit merge
+  175  git merge commit
+  176  git status
+  177  git commit
+  178  git checkout develop
+  179  code .
+  180  git checkout main
+  181  git status
+  182  git checkout develop
+  183  git status
+  184  git commit a- alberto_montero.html 
+  185  git commit -m alberto_montero.html 
+  186  git commit -a
+  187  git status
+  188  git checkout main
+  189  git merge develop
+  190  git log
+  191  git push origin main
+  192  git checkou develop
+  193  git checkout develop
+  194  git push origin develop
+  195  cd /d
+  196  ll
+  197  billy
+  198  cd billy
+  199  cd documentosa
+  200  cd documentos
+  201  cd daw
+  202  ll
+  203  cd a.entornos
+  204  ll
+  205  cd actividad
+  206  ll
+  207  cd proyecto
+  208  ll
+  209  cd Repo1Actividad1/
+  210  GIT STATUS
+  211  git status
+  212  git checkout main
+  213  git status
+  214  code .
+  215  git checkout develop
+  216  code .
+  217  git pull
+  218  code .
+  219  git pull develop
+  220  git checkout main
+  221  git pull origin develop
+  222  ll
+  223  code .
+  224  git status
+  225  git push
+  226  git status
+  227  git pull origin develop
+  228  git push origin develop
+  229  git pull
+  230  git push origin develop
+  231  git pull origin develop
+  232  git push origin develop
+  233  git checkout develop
+  234  git push main
+  235  git push
+  236  git push origin develop
+  237  git pull main
+  238  git pull
+  239  code .
+  240  git checkout develop
+  241  code .
+  242  git pull origin main
+  243  git push origin develop
+  244  git merge 
+  245  git merger develop
+  246  git merge origin develop
+  247  git merge origin main
+  248  git checkout main
+  249  git merge develop
+  250  git merge origin develop
+  251  git status
+  252  git push
+  253  git pull
+  254  code .
+  255  git status
+  256  git commit index.html 
+  257  git push
+  258  cd /d
+  259  cd billy
+  260  cd documentos
+  261  cd daw
+  262  cd a.entornos
+  263  cd proyecto
+  264  cd proyectos
+  265  cd actividades
+  266  ll
+  267  cd actividad
+  268  cd proyecto
+  269  cd Repo1Actividad1/
+  270  git status
+  271  git
+  272  git checkout main+ç
+  273  git checkout main
+  274  git n
+  275  github
+  276  /d/Billy/Documentos/DAW/A.ENTORNOS/Actividad/PROYECTO
+  277  cd /d/Billy/Documentos/DAW/A.ENTORNOS/Actividad/PROYECTO/Repo1Actividad1
+  278  git pulll
+  279  git pull
+  280  code .
+  281  git checkout develop
+  282  git status
+  283  git push
+  284  git push origin develop
+  285  git pull
+  286  git pull origin main+
+  287  git pull origin main
+  288  git push
+  289  git push develop
+  290  git pùsh mainç
+  291  git push main
+  292  git push origin main
+  293  git satus
+  294  git status
+  295  git add alberto_montero.html 
+  296  git status
+  297  git push origin main+
+  298  git push origin main
+  299  git status
+  300  bb
+  301  git add alberto_montero.html 
+  302  git status
+  303  gitt add.
+  304  git add.
+  305  git add .
+  306  git commit - "cambios en alberto_montero.html"
+  307  git commit -m "cambios en archivo alberto_montero.html"
+  308  git push
+  309  git push origin develop
+  310  git status
+  311  git checkout main
+  312  git merge origin develop
+  313  git status
+  314  git checkout develo
+  315  git checkout develop
+  316  git status
+  317  git checkout main
+  318  git status
+  319  git push
+  320  git pull
+  321  git status
+  322  git checkout develop
+  323  git status
+  324  code .
+  325  git status
+  326  git add.
+  327  git add .
+  328  git commi -m "caMBIO DE PRUEBA EN INDEX
+  329  "
+  330  git commit -m  
+  331  git commit -m "cambio de prueba en index"
+  332  git push
+  333  git push origin develop
+  334  git status
+  335  git status
+  336  git checkout main
+  337  git merge origin develop
+  338  git push
+  339  git status
+  340  git pull
+  341  git status
+  342  code .
+  343  git status
+  344  git pull
+  345  code .
+  346  git checkot develop
+  347  git checkout developo
+  348  git checkout develop
+  349  git status
+  350  git add .
+  351  git coomit -m "editando index"
+  352  git commit -m "editando index"
+  353  git push origin develop
+  354  git pull origin develop
+  355  code .v
+  356  code .
+  357  code .
+  358  git pull origin develop
+  359  code .
+  360  code .
+  361  git pull origin develop
+  362  git pull origon develop
+  363  git pull origin develop
+  364  git status
+  365  git checkout main
+  366  git merge origin develop
+  367  git push origin main
+  368  git pull origin main
+  369  git push origin main
+  370  git status
+  371  git status
+  372  git pull
+  373  git status
+  374  git checkout develop
+  375  git status
+  376  git pull
+  377  git pull
+  378  code v
+  379  code .
+  380  cd c/
+  381  cd/ c
+  382  cd
+  383  cd \c
+  384  cd d
+  385  cd d\
+  386  cd/ d
+  387  cd /d
+  388  cmd
+  389  cd /d
+  390  ll
+  391  cd billy
+  392  cd documentos
+  393  cd daw
+  394  ll
+  395  cd A. lenguaje de marcas y sistemas de gestion
+  396  ll
+  397  cd a. lenguaje de marcas
+  398  cd a.lenguaje de marcas
+  399  ll
+  400  cd A.LENGUAJE\ DE\ MARCAS/
+  401  cd UNIR_MARCAS2024/
+  402  git clone https://github.com/rrodriguez1985/UNIR_Marcas2024.git
+  403  '/d/Billy/Documentos/DAW/A.LENGUAJE DE MARCAS/UNIR_MARCAS2024/UNIR_Marcas2024'
+  404  cd '/d/Billy/Documentos/DAW/A.LENGUAJE DE MARCAS/UNIR_MARCAS2024/UNIR_Marcas2024'
+  405  git pull
+  406  cd
+  407  cd \d
+  408  cd /d
+  409  ll
+  410  cd billy
+  411  cd documentos
+  412  cd daw
+  413  ll
+  414  cd A.EEDD/
+  415  ll
+  416  cds actividad
+  417  ll
+  418  cd Actividad/
+  419  ll
+  420  cd PROYECTO/
+  421  LL
+  422  ll
+  423  cd Repo1Actividad1/
+  424  git checkout
+  425  git pull
+  426  code .
+  427  CD D
+  428  CD /D
+  429  cd d/
+  430  cd documentos
+  431  ll
+  432  cd billy
+  433  cd documentos
+  434  cd daw
+  435  cd A.EEDD/
+  436  cd PRUEBA_PRACTICA/
+  437  git clone [200~git@github.com:AlbertoMC91/montero_alberto_nov24.git~
+  438  git clone https://github.com/AlbertoMC91/montero_alberto_nov24.git
+  439  cd montero_alberto_nov24/cdccdcdwefwe
+  440  cd montero_alberto_nov24/
+  441  git branch AlbertoMontero
+  442  git checkout
+  443  git push
+  444  git push
+  445  git push
+  446  cd d/
+  447  cd billy
+  448  cd documentos
+  449  cd daw
+  450  cd A.EEDD/
+  451  ll
+  452  cd PRUEBA_PRACTICA/
+  453  cd montero_alberto_nov24/
+  454  git push
+  455  git checkout
+  456  git checkout albertomontero
+  457  readme.md
+  458  open readme.md
+  459  git add .
+  460  git commit -m "Añado carpetas y archivos"
+  461  git commit -m "Añado carpetas y archivos al repositorio"
+  462  git remote -v
+  463  git push albertomontero
+  464  git push
+  465  git remote add origin https://github.com/AlbertoMC91/montero_alberto_nov24.git
+  466  git checkout main
+  467  git push origin main
+  468  git status
+  469  git add
+  470  git add.
+  471  git add .
+  472  git status
+  473  git commit -m "cambios"
+  474  git push origin main
+  475  git status
+  476  git checkout albertomontero
+  477  git push origin albertomontero
+  478  git status
+  479  git add README.md 
+  480  git commit -a
+  481  git push origin albertomontero
+  482  git merge
+  483  git checkout main
+  484  git merge origin albertomontero
+  485  git status
+  486  git push
+  487  git rm -r --cached top_secret/
+  488  git commit -m "Ignorar la carpeta top_secret, ya que había sido añadida por error antes de añadir el archivo .gitignore"
+  489  git push origin main
+  490  git status
+  491  git log
+  492  git status
+  493  git add .
+  494  git commit -m
+  495  git commit
+  496  git push
+  497  history
+  498  [200~history > historial_comandos.txt
+  499  history > historial_comandos.txt
+  500  history > historial_comandos.txt
+  501  history > /c/Users/Billy/historial_comandos.txt
